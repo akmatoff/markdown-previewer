@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/akmatoff.github.io/markdown-previewer/static/css/main.586811a1.chunk.css",
+    "main.js": "/akmatoff.github.io/markdown-previewer/static/js/main.832305ef.chunk.js",
+    "main.js.map": "/akmatoff.github.io/markdown-previewer/static/js/main.832305ef.chunk.js.map",
+    "runtime-main.js": "/akmatoff.github.io/markdown-previewer/static/js/runtime-main.4880c055.js",
+    "runtime-main.js.map": "/akmatoff.github.io/markdown-previewer/static/js/runtime-main.4880c055.js.map",
+    "static/js/2.4517d14d.chunk.js": "/akmatoff.github.io/markdown-previewer/static/js/2.4517d14d.chunk.js",
+    "static/js/2.4517d14d.chunk.js.map": "/akmatoff.github.io/markdown-previewer/static/js/2.4517d14d.chunk.js.map",
+    "index.html": "/akmatoff.github.io/markdown-previewer/index.html",
+    "static/css/main.586811a1.chunk.css.map": "/akmatoff.github.io/markdown-previewer/static/css/main.586811a1.chunk.css.map",
+    "static/js/2.4517d14d.chunk.js.LICENSE.txt": "/akmatoff.github.io/markdown-previewer/static/js/2.4517d14d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4880c055.js",
+    "static/js/2.4517d14d.chunk.js",
+    "static/css/main.586811a1.chunk.css",
+    "static/js/main.832305ef.chunk.js"
+  ]
+}
